@@ -1,2 +1,2 @@
 # PhD
-This folder contains all things PhD
+# Reading, Scripts, Figures and Files for PhD
